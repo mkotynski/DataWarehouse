@@ -1,0 +1,8 @@
+id,imie,nazwisko,pesel,data_urodzenia,wojewodztwo,ulica,nr_mieszkania,poczta,miejscowosc,nr_telefonu,email,newsletter,uniewazniony
+number,varchar2(255),varchar2(255),number,date,varchar2(255),varchar2(255),varchar2(255),varchar2(255),varchar2(255),varchar2(255),varchar2(255),varchar2(255),varchar2(2)
+3001,Martyna,Stepien,91021083440,10-02-1991,lodzkie,Piotrowska,22,55-111,Lodz,644123432,Stepien@gmail.com,tak,n
+3003,Filip ,Pawlak,90101077094,01-01-1990,mazowieckie,Sloneczna,2,03-111,Radom,555173267,Pawlak@wp.com,nie,n
+3004,Igor ,Zielinski,74062192711,21-06-1974,mazowieckie,Zlota,2,03-111,Warszawa,844153431,Warszawa@wp.com,tak,n
+3005,Stanislaw,Zak,91011477431,14-01-1991,mazowieckie,Niepodleglosci,66,05-600,Grojec,665344431,grojec@wp.com,tak,n
+3006,Maja ,Kalinowska,85082537707,25-08-1985,lodzkie,Piotrowska,2,55-111,Lodz,888123432,Kalinowska@gmail.com,tak,n
+3007,Filip,Pawlak,86122311043,23-12-1986,mazowieckie,Jasna,2,03-111,Radom,664173222,tdluzny@wp.com,nie,n

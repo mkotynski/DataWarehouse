@@ -1,0 +1,8 @@
+id,id_pracownik,zasilek_detale,data_przyznania,uniewazniony
+number,number,number,date,varchar2(5)
+1,1,1,01-01-2019,n
+2,6,2,01-01-2019,n
+3,7,3,01-01-2020,n
+4,7,4,01-01-2020,n
+5,7,5,01-01-2020,n
+

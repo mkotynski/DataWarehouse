@@ -1,0 +1,7 @@
+id,kwota,data_przyznania,nazwa,uniewazniony
+number,number,date,varchar2(255),varchar2(5)
+1,1000,01-01-2019,Dodatek socjalny,n
+2,2000,01-01-2019,Dodatek socjalny na dziecko,n
+3,500,01-01-2020,Dodatek socjalny,n
+4,1500,01-01-2020,Dodatek socjalny,n
+5,500,07-01-2020,Dodatek socjalny,n

@@ -1,0 +1,10 @@
+id,id_pozycja,imie,nazwisko,pesel,data_urodzenia,wojewodztwo,ulica,nr_mieszkania,poczta,miejscowosc,nr_telefonu,email,newsletter, id_klienta, id_pracownika, id_materialu, nazwa_materialu, ilosc_materialu, data_zamowienia, data_realizacji,uniewazniony
+number,number,varchar2(255),varchar2(255),number,date,varchar2(255),varchar2(255),varchar2(255),varchar2(255),varchar2(255),varchar2(255),varchar2(255),varchar2(255),number,number,number,varchar2(255),number,date,date,varchar2(2)
+101,1,Martyna,Stepien,91021083440,10-02-1991,lodzkie,Piotrowska,22,55-111,Lodz,644123432,Stepien@gmail.com,tak,3001,1,1,Kinder Bueno,100, 15-05-2020, 20-05-2020,n
+102,1,Filip ,Pawlak,90101077094,01-01-1990,mazowieckie,Sloneczna,2,03-111,Radom,555173267,Pawlak@wp.com,nie,3003,5,3,Kinder Jajko Niespodzianka,400, 18-05-2020, 25-05-2020,n
+103,1,Igor ,Zielinski,74062192711,21-06-1974,mazowieckie,Zlota,2,03-111,Warszawa,844153431,Warszawa@wp.com,tak,3004,1,2,Kinder Joy,200, 15-05-2020, 20-05-2020,n
+104,1,Stanislaw,Zak,91011477431,14-01-1991,mazowieckie,Niepodleglosci,66,05-600,Grojec,665344431,grojec@wp.com,tak,3005,1,2,Kinder Niespodzianka,600, 15-05-2020, 20-05-2020,n
+105,1,Maja ,Kalinowska,85082537707,25-08-1985,lodzkie,Piotrowska,2,55-111,Lodz,888123432,Kalinowska@gmail.com,tak,3006,1,1,Kinder Bueno,100, 15-05-2020, 20-05-2020,n
+106,1,Filip,Pawlak,86122311043,23-12-1986,mazowieckie,Jasna,2,03-111,Radom,664173222,tdluzny@wp.com,nie,3007,11,3,Kinder Bueno,999, 18-05-2020, 25-05-2020,n
+107,1,Maja,Kalinowska,85082537707,25-08-1985,mazowieckie,Zelazna,24,00-877,Warszawa,888123432,Kalinowska@gmail.com,tak,3006,11,1,Kinder Bueno,100, 15-05-2020, 20-05-2020,n
+

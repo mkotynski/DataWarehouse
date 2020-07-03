@@ -1,0 +1,10 @@
+id,imie,nazwisko,pesel,data_urodzenia,wojewodztwo,ulica,nr_mieszkania,poczta,miejscowosc,nr_telefonu,email,data_zatrudnienia,data_zwolnienia,premia,uniewazniony
+number,varchar2(255),varchar2(255),number,date,varchar2(1000),varchar2(255),varchar2(255),varchar2(255),varchar2(255),varchar2(255),varchar2(255),date,date,number,varchar2(5)
+1,Kamil,Lesniak,90030881234,08-03-1990,mazowieckie,Niepodleglosci,111,00-925,Warszawa,881665193,Lesniak@gmail.com,01-01-2019,31-12-9999,1000,n
+2,Mikolaj,Osiecki,89042558937,25-04-1989,lodzkie,Ekonomiczna,45,93-426,Lodz,844153474,Osiecki@wp.com,01-05-2019,31-12-9999,1000,n
+3,Krzysztof,Janus,82010849172,08-01-1982,mazowieckie,Joselewicza Berka,94,03-803,Warszawa,614173431,janus@wp.com,01-05-2013,31-12-9999,500,n
+4,Marek,Kocinski,96020223299,02-02-1996,mazowieckie,Jesiotrowa,39,03-890,Warszawa,694193135,Marekk@wp.com,01-05-2016,31-12-9999,500,n
+5,Grzegorz,Kolodziejek,76071779918,17-07-1976,mazowieckie,Sadowa,75,04-965,Warszawa,814173431,Kolodziejek@wp.com,01-01-2016,31-12-2019,200,n
+6,Bartlomiej,Matusiak,63042839896,28-04-1963,mazowieckie,Pulawska,92,02-819,Warszawa,549953432,Matusiak@wp.com,31-12-2015,31-12-9999,1000,n
+7,Aleksander,Musielak,76090513333,05-09-1976,mazowieckie,Zlota,2,00-111,Warszawa,777153435,Musielak@wp.com,01-01-2019,31-12-9999,3000,n
+8,Dariusz,Bukowski,94092317311,23-09-1994,dolnoslaskie,Grojecka,109,53-118,Wroclaw,644123432,Bukowski@gmail.com,01-01-2020,12-12-2019,100,n
