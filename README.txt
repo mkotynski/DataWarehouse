@@ -5,3 +5,8 @@ stage - schemat obszaru magazynu
 temp - schemat obszaru tymczasowego
 zrodla - folder z zrodlami (csv oraz struktura source2-bazodanowa)
 
+eng.
+A simple data warehouse project made as part of the course at the university.
+
+
+
